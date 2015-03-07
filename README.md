@@ -13,4 +13,4 @@ The raw data can be downloaded here or on google consumer surveys:
 http://www.google.com/insights/consumersurveys/view?survey=gt5qusl5lv4fk
 
 People using these data are requested to cite the manuscript, which is in pdf format in this repository:
-Baggott, Matthew J. 2015. A brief survey of drug use and other activities preceding mystical-religious experiences.  Preprint (Version 1.0 March 4, 2015). 
+Baggott, Matthew J. 2015. A brief survey of drug use and other activities preceding mystical-religious experiences.  Preprint (Version 1.0 March 4, 2015). https://github.com/mattbaggott/mystical-survey/blob/master/results/Baggott%20mystical%20survey%204March2015.pdf
