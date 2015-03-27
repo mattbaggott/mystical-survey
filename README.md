@@ -7,7 +7,7 @@ Many people report having had mystical-religious experiences. The prevalence of 
 Key take aways: 
 About 8 in 1,000 Internet-using adults in the United States have had mystical-religious experiences after drug use.
 About 33 in 1,000 have had mystical-religious experiences associated with being outdoors in nature.  
-The relationships between these activities and mystical-religious experiences deserves further study.
+The relationships between these activities, which are not selectively associated with traditional religious institutions, and mystical-religious experiences deserves further study.
 
 The raw data can be downloaded here or on google consumer surveys:
 http://www.google.com/insights/consumersurveys/view?survey=gt5qusl5lv4fk
