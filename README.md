@@ -9,7 +9,12 @@ About 8 in 1,000 Internet-using adults in the United States have had mystical-re
 About 33 in 1,000 have had mystical-religious experiences associated with being outdoors in nature.  
 The relationships between these activities, which are not selectively associated with traditional religious institutions, and mystical-religious experiences deserves further study.
 
-The raw data can be downloaded here or on google consumer surveys:
+##Reading the full manuscript on the project
+The manuscript can be accessed here:
+https://github.com/mattbaggott/mystical-survey/blob/master/results/Baggott%20mystical%20survey%204March2015.pdf
+
+##Getting the raw data
+The complete dataset can be downloaded here on github or through Google Consumer Surveys. The link for the latter is:
 http://www.google.com/insights/consumersurveys/view?survey=gt5qusl5lv4fk
 
 ##Citing this project
